@@ -1,5 +1,7 @@
+# Windows
+# Selenium
+
 __version__ = '0.1.0'
-__author__ = 'Jok Laurente'
 __description__ = 'Automation for downloading of wells'
 
 # Import modules
